@@ -1,3 +1,3 @@
 # Johnny Pillacela
 ## Docker in PyCharm
-![Docker in PyCharm](DockerRunningInPycharm.png)
+![Docker in PyCharm](DockerRunningInPycharm.PNG)
